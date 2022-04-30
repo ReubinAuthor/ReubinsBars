@@ -1,0 +1,17 @@
+## Interface: 20504
+## Title: Reubin's Bars
+## Notes: Shows personal HP and energy bars
+## Author: Reubin
+## Version: 1.0.0
+## DefaultState: enabled
+## SavedVariablesPerCharacter:: ReubinsBars_settings
+
+functions.lua
+main_frame.lua
+hp_bar.lua
+power_bar.lua
+druids_bar.lua
+tick.lua
+five_seconds.lua
+Settings.lua
+init.lua
