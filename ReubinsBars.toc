@@ -1,6 +1,6 @@
 ## Interface: 20504
 ## Title: Reubin's Bars
-## Notes: Shows personal HP and energy bars
+## Notes: Displays your HP and power bars (mana, energy, rage)
 ## Author: Reubin
 ## Version: 1.0.0
 ## DefaultState: enabled
